@@ -1,18 +1,3 @@
-# playgta5 Source Code
-This code is grabbed from playgta5.com before it got took down. You can run this locally or make it public hehe.
-
-# Credits
-Shoutout to Sebas Furbastian on Telegram for scrapping this code. Idk what is his GitHub but here's the Telegram and X.
-
-Telegram: @SebasKitten
-
-X: @Sebas_Kitten
-
-# Disclaimer
-I don't host the `.\mirror` folder since it has copyrighted content from Rockstar Games. Please find the files by yourself.
-
-No copyrighted file is included in this repo. If Rockstar Games or any affiliated group think this repo has copyright infringement things, email me at shadany7824@gmail.com for me to took it down.
-
 # How to use
 1. Download the ZIP or just `git clone` it. It should have all this file and folders.
 <p align="center">
